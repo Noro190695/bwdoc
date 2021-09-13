@@ -1,0 +1,1 @@
+const bewedoc = 'Hello Bewedoc';
